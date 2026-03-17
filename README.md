@@ -131,7 +131,8 @@ Este repositório está organizado como material de apoio para os estudos. Utili
 - [Objetivos do Exame 102-500](https://www.lpi.org/our-certifications/exam-102-objectives/)
 - [Linux Documentation Project](https://tldp.org/)
 - [Man Pages Online](https://man7.org/linux/man-pages/)
-
+- [Guia do Linux](http://guialinux.uniriotec.br/)
+- [Laboratório de Linux Online](https://labex.io/linuxjourney)
 ---
 
 ## 📄 Licença
